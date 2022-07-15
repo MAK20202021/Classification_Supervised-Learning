@@ -7,10 +7,10 @@ The objective is to predict customer churn rates utilizing different classificat
 
 
 ## Acknowledgement
-This exercise is for [IBM Machine Learning Professional Certificate Program](https://www.coursera.org/professional-certificates/ibm-machine-learning?).
+This project is for [IBM Machine Learning Professional Certificate Program](https://www.coursera.org/professional-certificates/ibm-machine-learning?).
 Thanks to Coursera and IBM for arranging this exercise to strengthen our knowledge. 
 ## Installation
-This exercise needs Anaconda package(Anaconda3), Jupyter Notebook (6.1.4).
+This project needs Anaconda package(Anaconda3), Jupyter Notebook (6.1.4).
 
 ## File Description
 The source codes are as follows:
@@ -20,4 +20,4 @@ The source codes are as follows:
 - Report_Classification.pdf
 
 ## Discussion
-After completing this exercise, I understand how we can build the classification algorithm based model such as Logistic regression, KNN, Random Forest.
+After completing this project, I understand how we can build the classification algorithm based model such as Logistic regression, KNN, Random Forest.
