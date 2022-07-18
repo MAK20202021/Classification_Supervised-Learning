@@ -8,7 +8,7 @@ The objective is to predict customer churn rates utilizing different classificat
 
 ## Acknowledgement
 This project is for [IBM Machine Learning Professional Certificate Program](https://www.coursera.org/professional-certificates/ibm-machine-learning?).
-Thanks to Coursera and IBM for arranging this exercise to strengthen our knowledge. 
+Thanks to Coursera and IBM for arranging this project to strengthen our knowledge. 
 ## Installation
 This project needs Anaconda package(Anaconda3), Jupyter Notebook (6.1.4).
 
